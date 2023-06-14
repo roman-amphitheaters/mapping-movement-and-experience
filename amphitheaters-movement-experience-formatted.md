@@ -21,7 +21,7 @@ title: Mapping Amphitheaters, Movement, and Diverse Experiences North of
 
 Sebastian Heath
 
-*Received \<Month\> \<Day\> 2022*
+*Received \<Month\> \<Day\> 2023*
 
 Citation: Heath, Sebastian ‘Mapping Movement and Experiences Between
 Amphitheaters North of Rome’ *Epoieson* (if I’m so lucky!)
