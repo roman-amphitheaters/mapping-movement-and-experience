@@ -38,7 +38,7 @@
         <script>
         var map = L.map('map', {
             zoomControl:true, maxZoom:20, minZoom:1
-        }).fitBounds([[41.838244102975956,11.608435583128704],[43.31479443819133,13.368371535610498]]);
+        }).fitBounds([[41.87722327932941,11.549575281079944],[43.45659797728698,13.44549213142046]]);
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
@@ -74,7 +74,7 @@
         map.createPane('pane_Countwithin8HoursWalking_1');
         map.getPane('pane_Countwithin8HoursWalking_1').style.zIndex = 401;
         var img_Countwithin8HoursWalking_1 = 'data/Countwithin8HoursWalking_1.png';
-        var img_bounds_Countwithin8HoursWalking_1 = [[42.02070665726076,11.839971934293985],[43.18122920935544,13.119378494213041]];
+        var img_bounds_Countwithin8HoursWalking_1 = [[42.02070665726076,11.839971934293985],[43.316126996118925,13.128471073624446]];
         var layer_Countwithin8HoursWalking_1 = new L.imageOverlay(img_Countwithin8HoursWalking_1,
                                               img_bounds_Countwithin8HoursWalking_1,
                                               {pane: 'pane_Countwithin8HoursWalking_1'});
@@ -327,7 +327,7 @@
                 lineJoin: 'miter',
                 weight: 3.0, 
                 fillOpacity: 0,
-                interactive: false,
+                interactive: true,
             }
         }
         map.createPane('pane_StudyAreaBorder_4');
@@ -335,7 +335,7 @@
         map.getPane('pane_StudyAreaBorder_4').style['mix-blend-mode'] = 'normal';
         var layer_StudyAreaBorder_4 = new L.geoJson(json_StudyAreaBorder_4, {
             attribution: '',
-            interactive: false,
+            interactive: true,
             dataVar: 'json_StudyAreaBorder_4',
             layerName: 'layer_StudyAreaBorder_4',
             pane: 'pane_StudyAreaBorder_4',
