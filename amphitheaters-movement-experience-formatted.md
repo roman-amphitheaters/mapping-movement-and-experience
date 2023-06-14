@@ -111,8 +111,8 @@ planning and realization of which occasionally included an amphitheater
 ([Welch 2009](#ref-welchRomanAmphitheatreIts2009)). Over 260 of these
 structures were in use during the 2nd Century, though already by the end
 of that century amphitheaters are being abandoned, or at least
-repurposed ([Heath 2023](#ref-heathNearnessExperienceNetwork2023)). This
-means that the 2nd Century can be considered the time of “Peak
+repurposed ([Heath 2023, 141](#ref-heathNearnessExperienceNetwork2023)).
+This means that the 2nd Century can be considered the time of “Peak
 Amphitheater”. The years from the reign of Trajan, through that of
 Hadrian and into those of Antoninus Pius and then Marcus Aurelius likely
 saw both the most amphitheaters in use at any one time and the last
