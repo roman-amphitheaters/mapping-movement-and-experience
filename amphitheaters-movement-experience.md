@@ -3,7 +3,7 @@ title: 'Mapping Amphitheaters, Movement, and Diverse Experiences North of Rome'
 
 author: 'Heath, Sebastian'
 
-date: year-month-day
+date: 2023-07-01
 
 cover_index: preferred-image-450x450pixels.png
 
