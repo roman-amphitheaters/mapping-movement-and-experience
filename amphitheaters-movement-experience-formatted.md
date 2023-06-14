@@ -4,7 +4,7 @@ bibliography: zotero.bib
 cover_detail: preferred-image-1300x500pixels.png
 cover_index: preferred-image-450x450pixels.png
 csl: /Users/sfsheath/Documents/styles/springer-humanities-author-date.csl
-date: year-month-day
+date: 2023-07-01
 doi: we-take-care-of-this
 link-citations: true
 tags:
