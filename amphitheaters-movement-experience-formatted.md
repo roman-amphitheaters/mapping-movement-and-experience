@@ -637,21 +637,27 @@ they changed the nature of that experience for those who did attend.
 
 And it is again important to stress that the regions and towns between
 amphitheaters are a focus here. Figure 7, the interactive map, can bring
-that aspect to the fore. Nenquincum, modern Narni, lies between the
-amphitheaters at Carsulae, Interamnia Nahars, and Ocriculum. It is also
-right at a choke point where the river Nera creates a passage enabling
-north to south movement. This movement was eased by the construction of
-the Augustan era Ponte d’Augusto. And it is at the junction of the old
-and new branches of the Via Flaminia. It has no amphitheater.
-Nonetheless, it can be considered to have been well-served by the
-structures in the nearby town. Inhabitants, and perhaps even travelers,
-might well find themselves talking about the fights and other violence
-they had seen. This aspect of life in Nequincum may well be in contrast
-to the experience of Clusium and Cortona, in the north west of the study
-area. And as noted above, I have included of mid-imperial sites that
-were identified by the Tiber Valley Project as figure 8. Together these
-layers can encourage us to think of the many people who would have moved
-through this landscape.
+that aspect to the fore. In terms of content, it uses the “Digital Atlas
+of the Roman Empire” as its basemap ([Ahfeldt
+nd](#ref-ahfeldtDigitalAtlasRomannd)), which in turn collects
+information from the Pleiades Gazetteer of Ancient Sites and other
+sources ([Bagnall et al.
+2006](#ref-bagnallPleiadesCommunitybuiltGazetteer2006)). Reading DARE in
+the context of the layers collected here, one notes Nenquincum, modern
+Narni, lying between the amphitheaters at Carsulae, Interamnia Nahars,
+and Ocriculum. Nequincum is also right at a choke point where the river
+Nera creates a passage enabling north to south movement. This movement
+was eased by the construction of the Augustan era Ponte d’Augusto. And
+it is at the junction of the old and new branches of the Via Flaminia.
+It has no amphitheater. Nonetheless, it can be considered to have been
+well-served by the structures in the nearby town. Inhabitants, and
+perhaps even travelers, might well find themselves talking about the
+fights and other violence they had seen. This aspect of life in
+Nequincum may well be in contrast to the experience of Clusium and
+Cortona, in the north west of the study area. And as noted above, I have
+included of mid-imperial sites that were identified by the Tiber Valley
+Project as figure 8. Together these layers can encourage us to think of
+the many people who would have moved through this landscape.
 
 ## Closing Remarks
 
@@ -766,6 +772,13 @@ Here is how I use that freedom while working within the sharp constraints of (1)
 
 <div id="refs" class="references csl-bib-body hanging-indent">
 
+<div id="ref-ahfeldtDigitalAtlasRomannd" class="csl-entry">
+
+Ahfeldt, Johan. nd. Digital Atlas of the Roman Empire. *Digtital Atlas
+of the Roman Empire*. https://dh.gu.se/dare/.
+
+</div>
+
 <div id="ref-AllModelsAre2022" class="csl-entry">
 
 All models are wrong. 2022. *Wikipedia*.
@@ -779,6 +792,17 @@ Bronkhorst, M. C. Capanna, T. C. A. de Haas, et al. 2022. The Roman
 Hinterland Project: Integrating Archaeological Field Surveys around Rome
 and Beyond. *European Journal of Archaeology* 25. Cambridge University
 Press: 238–258. <https://doi.org/10.1017/eaa.2021.51>.
+
+</div>
+
+<div id="ref-bagnallPleiadesCommunitybuiltGazetteer2006"
+class="csl-entry">
+
+Bagnall, Roger, Richard J. A. Talbert, Sarah Bond, Jeffrey Becker, Tom
+Elliott, Sean Gillies, Ryan Horne, et al. 2006. Pleiades: A
+community-built gazetteer and graph of ancient places. Collection.
+http://pleiades.stoa.org; Institute for the Study of the Ancient World,
+New York University.
 
 </div>
 
