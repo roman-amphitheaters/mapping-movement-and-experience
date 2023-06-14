@@ -333,9 +333,11 @@ table {
 | Trebula Mutuesca | Monteleone             | 0                      | 2nd CE?         | ?x?, ?x?      | “small”       | Golvin, no. 58; Tosi, p. 312              | [link](https://amphi-theatrum.de/1504.html) |
 | Volsinii Novi    | Bolsena                | 0                      | Flavian         | 100x84, 58x42 | 11,000        | Golvin no. 163; Tosi p. 442               | [link](https://amphi-theatrum.de/1554.html) |
 
-Table 1: The 16 sixteen amphitheaters in the study region. When
-available, the links to amphitheatrum give further bibliography and
-often have images.
+Table 1: The 16 sixteen amphitheaters in the study region. References
+are to ([Golvin 1988](#ref-golvinAmphitheatreRomainEssai1988); [Tosi
+2003](#ref-tosiEdificiSpettacoliNell2003); [Welch
+2009](#ref-welchRomanAmphitheatreIts2009)). When available, the links to
+amphitheatrum give further bibliography and often have images.
 
 With topography, lakes and waterways, amphitheaters, and roads digitally
 represented, cost surface analysis can be pursued. Figure 4 shows a
@@ -461,7 +463,10 @@ am as interested in the regions between all settlements and all areas of
 any use. Fields for pasturage or springs for watering, smaller
 settlements such as farms and villas, rural sanctuaries, and other types
 of locations and activities can all have been present or taken place
-within Mevania’s 8-hour walking zone.
+within Mevania’s 8-hour walking zone. And I do also rely on a general
+understanding that pathways and trails would have existed to allow
+people to move between points that were of interest to them ([Snead et
+al. 2009](#ref-sneadMakingHumanSpace2009)).
 
 There is reason to think that the regions between larger sites were used
 by a variety of people in a variety of ways. In looking at the
@@ -630,6 +635,24 @@ over the course of a lifetime, these differing levels of access created
 different individual relationships to these large strucutes and that
 they changed the nature of that experience for those who did attend.
 
+And it is again important to stress that the regions and towns between
+amphitheaters are a focus here. Figure 7, the interactive map, can bring
+that aspect to the fore. Nenquincum, modern Narni, lies between the
+amphitheaters at Carsulae, Interamnia Nahars, and Ocriculum. It is also
+right at a choke point where the river Nera creates a passage enabling
+north to south movement. This movement was eased by the construction of
+the Augustan era Ponte d’Augusto. And it is at the junction of the old
+and new branches of the Via Flaminia. It has no amphitheater.
+Nonetheless, it can be considered to have been well-served by the
+structures in the nearby town. Inhabitants, and perhaps even travelers,
+might well find themselves talking about the fights and other violence
+they had seen. This aspect of life in Nequincum may well be in contrast
+to the experience of Clusium and Cortona, in the north west of the study
+area. And as noted above, I have included of mid-imperial sites that
+were identified by the Tiber Valley Project as figure 8. Together these
+layers can encourage us to think of the many people who would have moved
+through this landscape.
+
 ## Closing Remarks
 
 In closing this article, I want to both raise the stakes while
@@ -647,15 +670,16 @@ in societies generally has found uptake amongst Roman historians ([Mann
 Emmerson’s analysis of how the placement of the amphitheater at
 Ocriculum evokes the placement of entertainment structures on the Campus
 Martius in Rome ([Emmerson 2020, 184](#ref-emmersonLifeDeathRoman2020)).
-From this perspecitve, amphitheaters allow those whose experience would
-allow them to make the association to participate in the ideological
-program established in the early empure and which continued on. This
-approach is compatible with the very local experience that I am
-speculating about. I do, however, mean difference within the context of
-the built infrastrucutre of the Roman empire as much as finding
-connection. In this regard, I overlap with other scholarship stressing
-individual experience. Noreña, cited above as an historian comfortable
-invoking Mann, has also “individual subjective experience” as a concern
+From this perspecitve, someone familiar with Ocriculum and the Campus
+Martius might be able to participate in the ideological program
+established in the early empree and which continued to have relevance in
+the second century. Such an interpretation is compatible with the very
+local experience that I am speculating about. I do, however, mean to
+find diversity and difference within the context of the built
+infrastrucutre of the Roman empire as much as finding connection. In
+this regard, I overlap with other scholarship stressing individual
+experience. Noreña, cited above as an historian comfortable invoking
+Mann, has also addressed “individual subjective experience” as a concern
 within the study of empires ([Noreña 2019,
 42](#ref-norenaIntroduction2019) (check)). Ramgopal
 ([2019](#ref-ramgopalMobility2019)), in the same volume, addresses
@@ -890,6 +914,13 @@ Challenges, Pushing Old Boundaries, and Exploring New Horizons: 121–128.
 
 </div>
 
+<div id="ref-golvinAmphitheatreRomainEssai1988" class="csl-entry">
+
+Golvin, Jean-Claude. 1988. *L’Amphithéâtre romain: essai sur la
+théorisation de sa forme et de ses fonctions*. Paris: De Boccard.
+
+</div>
+
 <div id="ref-heathEstimatingMappingRoman2022" class="csl-entry">
 
 Heath, Sebastian. 2022a. Estimating and Mapping Roman Amphitheater
@@ -1049,6 +1080,17 @@ the Mani Peninsula, Greece. *Journal of Archaeological Science: Reports*
 
 Shepherd, William R. 1926. *Historical atlas*. Fifth. New York: Henry
 Holt.
+
+</div>
+
+<div id="ref-sneadMakingHumanSpace2009" class="csl-entry">
+
+Snead, James, Clark Erickson, and Andrew Darling. 2009. [Making Human
+Space: The Archaeology of Trails, Paths, and
+Roads](https://www.jstor.org/stable/j.ctt3fhjb3.18). In *Landscapes of
+Movement: Trails, Paths, and Roads in Anthropological Perspective*, ed.
+James Snead, Clark Erickson, and Andrew Darling. University of
+Pennsylvania Press.
 
 </div>
 
