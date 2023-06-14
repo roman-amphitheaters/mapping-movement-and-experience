@@ -17,14 +17,14 @@ title: Mapping Amphitheaters, Movement, and Diverse Experiences North of
   Rome
 ---
 
-# Mapping Movement and Experiences Between Amphitheaters North of Rome
+# Mapping Movement and Diverse Experiences Between Amphitheaters North of Rome
 
 Sebastian Heath
 
 *Received \<Month\> \<Day\> 2023*
 
-Citation: Heath, Sebastian ‘Mapping Movement and Experiences Between
-Amphitheaters North of Rome’ *Epoieson* (if I’m so lucky!)
+Citation: Heath, Sebastian ‘Mapping Movement and Diverse Experiences
+Between Amphitheaters North of Rome’ *Epoieson* (if I’m so lucky!)
 
 ![](https://i.creativecommons.org/l/by/4.0/80x15.png)
 
