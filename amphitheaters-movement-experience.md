@@ -26,7 +26,7 @@ Sebastian Heath
 
 _Received &lt;Month> &lt;Day> 2023_
 
-Citation: Heath, Sebastian 'Mapping Movement and Diverse Experiences Between Amphitheaters North of Rome' _Epoieson_ (if I'm so lucky!)
+Citation: Heath, Sebastian 'Mapping Movement and Diverse Experiences Between Amphitheaters North of Rome'
 
 ![](https://i.creativecommons.org/l/by/4.0/80x15.png)
 
